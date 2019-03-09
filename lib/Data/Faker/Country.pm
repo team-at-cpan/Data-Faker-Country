@@ -32,7 +32,7 @@ Returns a single scalar 2-character ISO-3166 country code as a Unicode string.
 
 =cut
 
-our $VERSION = '1.000';
+our $VERSION = '0.001';
 
 use parent qw(Data::Faker);
 
